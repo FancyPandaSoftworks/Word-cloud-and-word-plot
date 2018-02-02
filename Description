@@ -1,0 +1,5 @@
+The first one is finding certain words in pdf files and make it a boxplot.
+
+The second one is making a wordcloud out of the pdf files. 
+
+The third one is modify the pdf and then we can get the top 3 highest top 3 tm_score
